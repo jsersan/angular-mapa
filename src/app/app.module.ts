@@ -18,7 +18,7 @@ import { NavbarComponent } from './components/navbar/navbar.component';
     HttpModule,
     FormsModule,
     AgmCoreModule.forRoot({
-      apiKey: 'AIzaSyDY3YQ6aNb7YXoz13RIxq5fVyzdbak7sQ0'
+      apiKey: 'API-key'
     })
   ],
   providers: [
